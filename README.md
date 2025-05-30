@@ -1,5 +1,5 @@
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://ik.imagekit.io/aj0rmkcig/cover.png?updatedAt=1748596570041)
 
 <h1 align="center">Hey👋,This is Swapnil Roy</h1>
 <h3 align="center">A passionate frontend developer from Chittagong, Bangladesh</h3>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Programming Language : Javascript, PHP, C, C+, Frameworks : react, express js, node js,**
 
-- 📫 How to reach me **swapnilroyweb1311@gmail.com**
+- 📫 Contact with me **swapnilroyweb1311@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PaFS5NcKc6SAF0dariZrQ9mfw0ygbgNL/view?usp=sharing](https://drive.google.com/file/d/1PaFS5NcKc6SAF0dariZrQ9mfw0ygbgNL/view?usp=sharing)
 
