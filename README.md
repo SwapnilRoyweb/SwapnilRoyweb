@@ -1,5 +1,5 @@
 
-![MasterHead](https://ik.imagekit.io/aj0rmkcig/cover.png?updatedAt=1748596570041](https://ik.imagekit.io/aj0rmkcig/cover%20(1).png?updatedAt=1748597795687)
+![MasterHead](https://ik.imagekit.io/aj0rmkcig/cover%20(1).png?updatedAt=1748597795687)
 
 <h1 align="center">Hey👋,This is Swapnil Roy</h1>
 <h3 align="center">A passionate frontend developer from Chittagong, Bangladesh</h3>
